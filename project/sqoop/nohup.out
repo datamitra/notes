@@ -1,0 +1,95 @@
+username - root
+database name - classicmodels
+Table name passed is:: offices
+Warning: /home/dorababugjntup/YARN/sqoop/../hbase does not exist! HBase imports will fail.
+Please set $HBASE_HOME to the root of your HBase installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../hcatalog does not exist! HCatalog jobs will fail.
+Please set $HCAT_HOME to the root of your HCatalog installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../accumulo does not exist! Accumulo imports will fail.
+Please set $ACCUMULO_HOME to the root of your Accumulo installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../zookeeper does not exist! Accumulo imports will fail.
+Please set $ZOOKEEPER_HOME to the root of your Zookeeper installation.
+18/07/05 03:50:44 INFO sqoop.Sqoop: Running Sqoop version: 1.4.7
+18/07/05 03:50:44 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+18/07/05 03:50:44 INFO tool.BaseSqoopTool: Using Hive-specific delimiters for output. You can override
+18/07/05 03:50:44 INFO tool.BaseSqoopTool: delimiters with --fields-terminated-by, etc.
+18/07/05 03:50:45 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+18/07/05 03:50:45 INFO tool.CodeGenTool: Beginning code generation
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+Thu Jul 05 03:50:45 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/05 03:50:45 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `offices` AS t LIMIT 1
+18/07/05 03:50:45 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `offices` AS t LIMIT 1
+18/07/05 03:50:45 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /home/dorababugjntup/YARN/hadoop2
+Note: /tmp/sqoop-dorababugjntup/compile/05446c3bbbf65121869f68277fb148a6/offices.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+18/07/05 03:50:48 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-dorababugjntup/compile/05446c3bbbf65121869f68277fb148a6/offices.jar
+18/07/05 03:50:50 INFO tool.ImportTool: Destination directory offices is not present, hence not deleting.
+18/07/05 03:50:50 WARN manager.MySQLManager: It looks like you are importing from mysql.
+18/07/05 03:50:50 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+18/07/05 03:50:50 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+18/07/05 03:50:50 INFO mapreduce.ImportJobBase: Beginning import of offices
+18/07/05 03:50:50 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
+18/07/05 03:50:51 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+18/07/05 03:50:51 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+Thu Jul 05 03:51:02 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/05 03:51:02 INFO db.DBInputFormat: Using read commited transaction isolation
+18/07/05 03:51:02 INFO mapreduce.JobSubmitter: number of splits:1
+18/07/05 03:51:02 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1530717133114_1929
+18/07/05 03:51:03 INFO impl.YarnClientImpl: Submitted application application_1530717133114_1929
+18/07/05 03:51:03 INFO mapreduce.Job: The url to track the job: http://single-node-cluster:8088/proxy/application_1530717133114_1929/
+18/07/05 03:51:03 INFO mapreduce.Job: Running job: job_1530717133114_1929
+18/07/05 03:51:20 INFO mapreduce.Job: Job job_1530717133114_1929 running in uber mode : false
+18/07/05 03:51:21 INFO mapreduce.Job:  map 0% reduce 0%
+18/07/05 03:51:32 INFO mapreduce.Job:  map 100% reduce 0%
+18/07/05 03:51:33 INFO mapreduce.Job: Job job_1530717133114_1929 completed successfully
+18/07/05 03:51:33 INFO mapreduce.Job: Counters: 30
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=143464
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=87
+		HDFS: Number of bytes written=522
+		HDFS: Number of read operations=4
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=2
+	Job Counters 
+		Launched map tasks=1
+		Other local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=8370
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=8370
+		Total vcore-milliseconds taken by all map tasks=8370
+		Total megabyte-milliseconds taken by all map tasks=8570880
+	Map-Reduce Framework
+		Map input records=7
+		Map output records=7
+		Input split bytes=87
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=293
+		CPU time spent (ms)=2190
+		Physical memory (bytes) snapshot=208965632
+		Virtual memory (bytes) snapshot=1972133888
+		Total committed heap usage (bytes)=148373504
+	File Input Format Counters 
+		Bytes Read=0
+	File Output Format Counters 
+		Bytes Written=522
+18/07/05 03:51:33 INFO mapreduce.ImportJobBase: Transferred 522 bytes in 42.4434 seconds (12.2987 bytes/sec)
+18/07/05 03:51:33 INFO mapreduce.ImportJobBase: Retrieved 7 records.
+18/07/05 03:51:33 INFO mapreduce.ImportJobBase: Publishing Hive/Hcat import job data to Listeners for table offices
+Thu Jul 05 03:51:33 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/05 03:51:33 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `offices` AS t LIMIT 1
+18/07/05 03:51:33 INFO hive.HiveImport: Loading uploaded data into Hive
+18/07/05 03:51:33 INFO conf.HiveConf: Found configuration file file:/home/dorababugjntup/YARN/hive/conf/hive-site.xml
+18/07/05 03:51:44 INFO hive.HiveImport: 
+18/07/05 03:51:44 INFO hive.HiveImport: Logging initialized using configuration in jar:file:/home/dorababugjntup/YARN/hive/lib/hive-common-2.3.3.jar!/hive-log4j2.properties Async: true
+18/07/05 03:51:56 INFO hive.HiveImport: OK
+18/07/05 03:51:56 INFO hive.HiveImport: Time taken: 9.65 seconds
+18/07/05 03:51:57 INFO hive.HiveImport: Loading data to table hdpdlake.offices
+18/07/05 03:51:59 INFO hive.HiveImport: OK
+18/07/05 03:51:59 INFO hive.HiveImport: Time taken: 3.19 seconds
+18/07/05 03:52:00 INFO hive.HiveImport: Hive import complete.
