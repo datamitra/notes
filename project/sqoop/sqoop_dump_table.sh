@@ -6,15 +6,18 @@
 echo username - $mysql_user
 echo database name - $mysql_dbname
 
-echo "Table name passed is:: $1"
+
+#read option
+echo "*** Table name is :: $1 "
+
 sqoop import  \
---connect jdbc:mysql://localhost:3306/$mysql_dbname?zeroDateTimeBehavior=CONVERT_TO_NULL \
---username $mysql_user \
---password $mysql_password \
---hive-import \
---hive-database hdpdlake \
---hive-overwrite \
+--connect jdbc:mysql://localhost:3306/classicmodels?zeroDateTimeBehavior=CONVERT_TO_NULL \
+--username root \
+--password root \
 --table $1 \
 --delete-target-dir \
--m 1
-#--map-column-hive image=String \
+--target-dir "/classicmodels/$1" \
+--as-textfile \
+-m 1 \
+--enclosed-by '"' \
+--fields-terminated-by "," \

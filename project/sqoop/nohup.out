@@ -1,6 +1,111 @@
+88888888888888888888888888888888
+88888888888888888888888888888888
+total 232
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 37751 Jul 12 12:03 customers.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24998 Jul 12 12:12 employees.java
+-rw------- 1 dorababugjntup dorababugjntup    66 Jul 12 12:32 nohup.out
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 26662 Jul 12 12:12 offices.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 19473 Jul 11 02:06 orderdetails.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24036 Jul 12 11:53 orders.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16849 Jul 12 12:12 payments.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16954 Jul 12 12:12 productlines.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 28714 Jul 11 01:50 products.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup  1109 Jul 12 12:16 readme_download_mysql_table_data_to_csv.txt
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   548 Jul  5 03:21 sqoop_create_hive_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   591 Jul 12 12:20 sqoop_dump_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   590 Jul 11 01:50 sqoop_import_hive_table.sh
 username - root
 database name - classicmodels
-Table name passed is:: offices
+*** Table name is :: offices 
+88888888888888888888888888888888
+total 232
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 37751 Jul 12 12:03 customers.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24998 Jul 12 12:12 employees.java
+-rw------- 1 dorababugjntup dorababugjntup  1238 Jul 12 12:32 nohup.out
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 26662 Jul 12 12:12 offices.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 19473 Jul 11 02:06 orderdetails.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24036 Jul 12 11:53 orders.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16849 Jul 12 12:12 payments.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16954 Jul 12 12:12 productlines.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 28714 Jul 11 01:50 products.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup  1109 Jul 12 12:16 readme_download_mysql_table_data_to_csv.txt
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   548 Jul  5 03:21 sqoop_create_hive_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   591 Jul 12 12:20 sqoop_dump_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   590 Jul 11 01:50 sqoop_import_hive_table.sh
+username - root
+database name - classicmodels
+*** Table name is :: orderdetails 
+88888888888888888888888888888888
+88888888888888888888888888888888
+total 232
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 37751 Jul 12 12:03 customers.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24998 Jul 12 12:12 employees.java
+-rw------- 1 dorababugjntup dorababugjntup  2448 Jul 12 12:32 nohup.out
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 26662 Jul 12 12:12 offices.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 19473 Jul 11 02:06 orderdetails.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24036 Jul 12 11:53 orders.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16849 Jul 12 12:12 payments.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16954 Jul 12 12:12 productlines.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 28714 Jul 11 01:50 products.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup  1109 Jul 12 12:16 readme_download_mysql_table_data_to_csv.txt
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   548 Jul  5 03:21 sqoop_create_hive_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   591 Jul 12 12:20 sqoop_dump_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   590 Jul 11 01:50 sqoop_import_hive_table.sh
+username - root
+database name - classicmodels
+*** Table name is :: employees 
+88888888888888888888888888888888
+total 232
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 37751 Jul 12 12:03 customers.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24998 Jul 12 12:12 employees.java
+-rw------- 1 dorababugjntup dorababugjntup  3622 Jul 12 12:32 nohup.out
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 26662 Jul 12 12:12 offices.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 19473 Jul 11 02:06 orderdetails.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24036 Jul 12 11:53 orders.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16849 Jul 12 12:12 payments.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16954 Jul 12 12:12 productlines.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 28714 Jul 11 01:50 products.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup  1109 Jul 12 12:16 readme_download_mysql_table_data_to_csv.txt
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   548 Jul  5 03:21 sqoop_create_hive_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   591 Jul 12 12:20 sqoop_dump_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   590 Jul 11 01:50 sqoop_import_hive_table.sh
+username - root
+database name - classicmodels
+*** Table name is :: orders 
+total 236
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 37751 Jul 12 12:03 customers.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24998 Jul 12 12:12 employees.java
+-rw------- 1 dorababugjntup dorababugjntup  4760 Jul 12 12:32 nohup.out
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 26662 Jul 12 12:12 offices.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 19473 Jul 11 02:06 orderdetails.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24036 Jul 12 11:53 orders.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16849 Jul 12 12:12 payments.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16954 Jul 12 12:12 productlines.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 28714 Jul 11 01:50 products.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup  1109 Jul 12 12:16 readme_download_mysql_table_data_to_csv.txt
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   548 Jul  5 03:21 sqoop_create_hive_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   591 Jul 12 12:20 sqoop_dump_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   590 Jul 11 01:50 sqoop_import_hive_table.sh
+username - root
+database name - classicmodels
+*** Table name is :: payments 
+total 236
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 37751 Jul 12 12:03 customers.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24998 Jul 12 12:12 employees.java
+-rw------- 1 dorababugjntup dorababugjntup  5900 Jul 12 12:32 nohup.out
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 26662 Jul 12 12:12 offices.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 19473 Jul 11 02:06 orderdetails.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24036 Jul 12 11:53 orders.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16849 Jul 12 12:12 payments.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16954 Jul 12 12:12 productlines.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 28714 Jul 11 01:50 products.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup  1109 Jul 12 12:16 readme_download_mysql_table_data_to_csv.txt
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   548 Jul  5 03:21 sqoop_create_hive_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   591 Jul 12 12:20 sqoop_dump_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   590 Jul 11 01:50 sqoop_import_hive_table.sh
+username - root
+database name - classicmodels
+*** Table name is :: productlines 
 Warning: /home/dorababugjntup/YARN/sqoop/../hbase does not exist! HBase imports will fail.
 Please set $HBASE_HOME to the root of your HBase installation.
 Warning: /home/dorababugjntup/YARN/sqoop/../hcatalog does not exist! HCatalog jobs will fail.
@@ -9,59 +114,353 @@ Warning: /home/dorababugjntup/YARN/sqoop/../accumulo does not exist! Accumulo im
 Please set $ACCUMULO_HOME to the root of your Accumulo installation.
 Warning: /home/dorababugjntup/YARN/sqoop/../zookeeper does not exist! Accumulo imports will fail.
 Please set $ZOOKEEPER_HOME to the root of your Zookeeper installation.
-18/07/05 03:50:44 INFO sqoop.Sqoop: Running Sqoop version: 1.4.7
-18/07/05 03:50:44 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
-18/07/05 03:50:44 INFO tool.BaseSqoopTool: Using Hive-specific delimiters for output. You can override
-18/07/05 03:50:44 INFO tool.BaseSqoopTool: delimiters with --fields-terminated-by, etc.
-18/07/05 03:50:45 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
-18/07/05 03:50:45 INFO tool.CodeGenTool: Beginning code generation
+Warning: /home/dorababugjntup/YARN/sqoop/../hbase does not exist! HBase imports will fail.
+Please set $HBASE_HOME to the root of your HBase installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../hcatalog does not exist! HCatalog jobs will fail.
+Please set $HCAT_HOME to the root of your HCatalog installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../accumulo does not exist! Accumulo imports will fail.
+Please set $ACCUMULO_HOME to the root of your Accumulo installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../zookeeper does not exist! Accumulo imports will fail.
+Please set $ZOOKEEPER_HOME to the root of your Zookeeper installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../hbase does not exist! HBase imports will fail.
+Please set $HBASE_HOME to the root of your HBase installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../hcatalog does not exist! HCatalog jobs will fail.
+Please set $HCAT_HOME to the root of your HCatalog installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../accumulo does not exist! Accumulo imports will fail.
+Please set $ACCUMULO_HOME to the root of your Accumulo installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../zookeeper does not exist! Accumulo imports will fail.
+Please set $ZOOKEEPER_HOME to the root of your Zookeeper installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../hbase does not exist! HBase imports will fail.
+Please set $HBASE_HOME to the root of your HBase installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../hcatalog does not exist! HCatalog jobs will fail.
+Please set $HCAT_HOME to the root of your HCatalog installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../accumulo does not exist! Accumulo imports will fail.
+Please set $ACCUMULO_HOME to the root of your Accumulo installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../zookeeper does not exist! Accumulo imports will fail.
+Please set $ZOOKEEPER_HOME to the root of your Zookeeper installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../hbase does not exist! HBase imports will fail.
+Please set $HBASE_HOME to the root of your HBase installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../hcatalog does not exist! HCatalog jobs will fail.
+Please set $HCAT_HOME to the root of your HCatalog installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../accumulo does not exist! Accumulo imports will fail.
+Please set $ACCUMULO_HOME to the root of your Accumulo installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../zookeeper does not exist! Accumulo imports will fail.
+Please set $ZOOKEEPER_HOME to the root of your Zookeeper installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../hbase does not exist! HBase imports will fail.
+Please set $HBASE_HOME to the root of your HBase installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../hcatalog does not exist! HCatalog jobs will fail.
+Please set $HCAT_HOME to the root of your HCatalog installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../accumulo does not exist! Accumulo imports will fail.
+Please set $ACCUMULO_HOME to the root of your Accumulo installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../zookeeper does not exist! Accumulo imports will fail.
+Please set $ZOOKEEPER_HOME to the root of your Zookeeper installation.
+18/07/12 12:32:05 INFO sqoop.Sqoop: Running Sqoop version: 1.4.7
+18/07/12 12:32:05 INFO sqoop.Sqoop: Running Sqoop version: 1.4.7
+18/07/12 12:32:05 INFO sqoop.Sqoop: Running Sqoop version: 1.4.7
+18/07/12 12:32:05 INFO sqoop.Sqoop: Running Sqoop version: 1.4.7
+18/07/12 12:32:05 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+18/07/12 12:32:06 INFO sqoop.Sqoop: Running Sqoop version: 1.4.7
+88888888888888888888888888888888
+total 240
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 37751 Jul 12 12:03 customers.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24998 Jul 12 12:12 employees.java
+-rw------- 1 dorababugjntup dorababugjntup 11415 Jul 12 12:32 nohup.out
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 26662 Jul 12 12:12 offices.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 19473 Jul 11 02:06 orderdetails.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 24036 Jul 12 11:53 orders.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16849 Jul 12 12:12 payments.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 16954 Jul 12 12:12 productlines.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 28714 Jul 11 01:50 products.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup  1109 Jul 12 12:16 readme_download_mysql_table_data_to_csv.txt
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   548 Jul  5 03:21 sqoop_create_hive_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   591 Jul 12 12:20 sqoop_dump_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   590 Jul 11 01:50 sqoop_import_hive_table.sh
+username - root
+database name - classicmodels
+*** Table name is :: products 
+18/07/12 12:32:06 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+18/07/12 12:32:06 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+18/07/12 12:32:06 INFO sqoop.Sqoop: Running Sqoop version: 1.4.7
+18/07/12 12:32:06 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+18/07/12 12:32:06 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+18/07/12 12:32:06 INFO tool.CodeGenTool: Beginning code generation
+Warning: /home/dorababugjntup/YARN/sqoop/../hbase does not exist! HBase imports will fail.
+Please set $HBASE_HOME to the root of your HBase installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../hcatalog does not exist! HCatalog jobs will fail.
+Please set $HCAT_HOME to the root of your HCatalog installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../accumulo does not exist! Accumulo imports will fail.
+Please set $ACCUMULO_HOME to the root of your Accumulo installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../zookeeper does not exist! Accumulo imports will fail.
+Please set $ZOOKEEPER_HOME to the root of your Zookeeper installation.
 Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
-Thu Jul 05 03:50:45 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-18/07/05 03:50:45 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `offices` AS t LIMIT 1
-18/07/05 03:50:45 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `offices` AS t LIMIT 1
-18/07/05 03:50:45 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /home/dorababugjntup/YARN/hadoop2
-Note: /tmp/sqoop-dorababugjntup/compile/05446c3bbbf65121869f68277fb148a6/offices.java uses or overrides a deprecated API.
+18/07/12 12:32:06 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+18/07/12 12:32:06 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+18/07/12 12:32:06 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+18/07/12 12:32:06 INFO tool.CodeGenTool: Beginning code generation
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+18/07/12 12:32:07 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+18/07/12 12:32:07 INFO tool.CodeGenTool: Beginning code generation
+18/07/12 12:32:07 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+18/07/12 12:32:07 INFO tool.CodeGenTool: Beginning code generation
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+18/07/12 12:32:07 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+18/07/12 12:32:07 INFO tool.CodeGenTool: Beginning code generation
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+Thu Jul 12 12:32:07 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/12 12:32:07 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+18/07/12 12:32:07 INFO tool.CodeGenTool: Beginning code generation
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+18/07/12 12:32:07 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `offices` AS t LIMIT 1
+Thu Jul 12 12:32:07 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/12 12:32:08 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `offices` AS t LIMIT 1
+18/07/12 12:32:08 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /home/dorababugjntup/YARN/hadoop2
+Thu Jul 12 12:32:08 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Thu Jul 12 12:32:08 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Thu Jul 12 12:32:08 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Thu Jul 12 12:32:08 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/12 12:32:08 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `productlines` AS t LIMIT 1
+18/07/12 12:32:08 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `orderdetails` AS t LIMIT 1
+18/07/12 12:32:08 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `employees` AS t LIMIT 1
+18/07/12 12:32:08 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `payments` AS t LIMIT 1
+18/07/12 12:32:08 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `productlines` AS t LIMIT 1
+18/07/12 12:32:09 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /home/dorababugjntup/YARN/hadoop2
+18/07/12 12:32:09 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `employees` AS t LIMIT 1
+18/07/12 12:32:09 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `orderdetails` AS t LIMIT 1
+18/07/12 12:32:09 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /home/dorababugjntup/YARN/hadoop2
+18/07/12 12:32:09 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /home/dorababugjntup/YARN/hadoop2
+18/07/12 12:32:09 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `orders` AS t LIMIT 1
+18/07/12 12:32:09 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `payments` AS t LIMIT 1
+18/07/12 12:32:09 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /home/dorababugjntup/YARN/hadoop2
+18/07/12 12:32:09 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `orders` AS t LIMIT 1
+18/07/12 12:32:09 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /home/dorababugjntup/YARN/hadoop2
+18/07/12 12:32:10 INFO sqoop.Sqoop: Running Sqoop version: 1.4.7
+18/07/12 12:32:10 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+18/07/12 12:32:12 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+18/07/12 12:32:12 INFO tool.CodeGenTool: Beginning code generation
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+Thu Jul 12 12:32:13 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/12 12:32:14 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `products` AS t LIMIT 1
+18/07/12 12:32:14 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `products` AS t LIMIT 1
+18/07/12 12:32:14 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /home/dorababugjntup/YARN/hadoop2
+Note: /tmp/sqoop-dorababugjntup/compile/9c732393b9f90ea86eef64f2a7bbc2a7/orders.java uses or overrides a deprecated API.
 Note: Recompile with -Xlint:deprecation for details.
-18/07/05 03:50:48 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-dorababugjntup/compile/05446c3bbbf65121869f68277fb148a6/offices.jar
-18/07/05 03:50:50 INFO tool.ImportTool: Destination directory offices is not present, hence not deleting.
-18/07/05 03:50:50 WARN manager.MySQLManager: It looks like you are importing from mysql.
-18/07/05 03:50:50 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
-18/07/05 03:50:50 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
-18/07/05 03:50:50 INFO mapreduce.ImportJobBase: Beginning import of offices
-18/07/05 03:50:50 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
-18/07/05 03:50:51 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
-18/07/05 03:50:51 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
-Thu Jul 05 03:51:02 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-18/07/05 03:51:02 INFO db.DBInputFormat: Using read commited transaction isolation
-18/07/05 03:51:02 INFO mapreduce.JobSubmitter: number of splits:1
-18/07/05 03:51:02 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1530717133114_1929
-18/07/05 03:51:03 INFO impl.YarnClientImpl: Submitted application application_1530717133114_1929
-18/07/05 03:51:03 INFO mapreduce.Job: The url to track the job: http://single-node-cluster:8088/proxy/application_1530717133114_1929/
-18/07/05 03:51:03 INFO mapreduce.Job: Running job: job_1530717133114_1929
-18/07/05 03:51:20 INFO mapreduce.Job: Job job_1530717133114_1929 running in uber mode : false
-18/07/05 03:51:21 INFO mapreduce.Job:  map 0% reduce 0%
-18/07/05 03:51:32 INFO mapreduce.Job:  map 100% reduce 0%
-18/07/05 03:51:33 INFO mapreduce.Job: Job job_1530717133114_1929 completed successfully
-18/07/05 03:51:33 INFO mapreduce.Job: Counters: 30
+18/07/12 12:32:18 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-dorababugjntup/compile/9c732393b9f90ea86eef64f2a7bbc2a7/orders.jar
+Note: /tmp/sqoop-dorababugjntup/compile/2f91ccf93d6a95ee678bad730efaed2d/employees.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+18/07/12 12:32:18 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-dorababugjntup/compile/2f91ccf93d6a95ee678bad730efaed2d/employees.jar
+Note: /tmp/sqoop-dorababugjntup/compile/e439900dedf016bd10dff364922a71f7/offices.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+18/07/12 12:32:18 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-dorababugjntup/compile/e439900dedf016bd10dff364922a71f7/offices.jar
+Note: /tmp/sqoop-dorababugjntup/compile/d0e0eb938aed1bb784c1c58832942050/productlines.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+18/07/12 12:32:18 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-dorababugjntup/compile/d0e0eb938aed1bb784c1c58832942050/productlines.jar
+Note: /tmp/sqoop-dorababugjntup/compile/964b46452e909e9de7d59b91405a059e/orderdetails.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+18/07/12 12:32:19 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-dorababugjntup/compile/964b46452e909e9de7d59b91405a059e/orderdetails.jar
+Note: /tmp/sqoop-dorababugjntup/compile/8ccd175d505c2622c7776b94b1079dc0/payments.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+18/07/12 12:32:19 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-dorababugjntup/compile/8ccd175d505c2622c7776b94b1079dc0/payments.jar
+Note: /tmp/sqoop-dorababugjntup/compile/497dcebf6d0a7bae8f780404cba05c61/products.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+18/07/12 12:32:24 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-dorababugjntup/compile/497dcebf6d0a7bae8f780404cba05c61/products.jar
+18/07/12 12:32:24 INFO tool.ImportTool: Destination directory /clssicmodels/offices is not present, hence not deleting.
+18/07/12 12:32:24 WARN manager.MySQLManager: It looks like you are importing from mysql.
+18/07/12 12:32:24 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+18/07/12 12:32:24 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+18/07/12 12:32:24 INFO mapreduce.ImportJobBase: Beginning import of offices
+18/07/12 12:32:25 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
+18/07/12 12:32:25 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+18/07/12 12:32:25 INFO tool.ImportTool: Destination directory /clssicmodels/orders is not present, hence not deleting.
+18/07/12 12:32:25 WARN manager.MySQLManager: It looks like you are importing from mysql.
+18/07/12 12:32:25 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+18/07/12 12:32:25 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+18/07/12 12:32:25 INFO mapreduce.ImportJobBase: Beginning import of orders
+18/07/12 12:32:25 INFO tool.ImportTool: Destination directory /clssicmodels/productlines is not present, hence not deleting.
+18/07/12 12:32:25 WARN manager.MySQLManager: It looks like you are importing from mysql.
+18/07/12 12:32:25 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+18/07/12 12:32:25 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+18/07/12 12:32:25 INFO mapreduce.ImportJobBase: Beginning import of productlines
+18/07/12 12:32:25 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
+18/07/12 12:32:25 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+18/07/12 12:32:25 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
+18/07/12 12:32:25 INFO tool.ImportTool: Destination directory /clssicmodels/employees is not present, hence not deleting.
+18/07/12 12:32:25 WARN manager.MySQLManager: It looks like you are importing from mysql.
+18/07/12 12:32:25 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+18/07/12 12:32:25 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+18/07/12 12:32:25 INFO mapreduce.ImportJobBase: Beginning import of employees
+18/07/12 12:32:25 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
+18/07/12 12:32:25 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+18/07/12 12:32:25 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+18/07/12 12:32:26 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+18/07/12 12:32:26 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+18/07/12 12:32:26 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+18/07/12 12:32:26 INFO tool.ImportTool: Destination directory /clssicmodels/payments is not present, hence not deleting.
+18/07/12 12:32:26 WARN manager.MySQLManager: It looks like you are importing from mysql.
+18/07/12 12:32:26 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+18/07/12 12:32:26 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+18/07/12 12:32:26 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+18/07/12 12:32:26 INFO tool.ImportTool: Destination directory /clssicmodels/orderdetails is not present, hence not deleting.
+18/07/12 12:32:26 WARN manager.MySQLManager: It looks like you are importing from mysql.
+18/07/12 12:32:26 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+18/07/12 12:32:26 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+18/07/12 12:32:26 WARN manager.CatalogQueryManager: The table payments contains a multi-column primary key. Sqoop will default to the column customerNumber only for this job.
+18/07/12 12:32:26 WARN manager.CatalogQueryManager: The table payments contains a multi-column primary key. Sqoop will default to the column customerNumber only for this job.
+18/07/12 12:32:26 INFO mapreduce.ImportJobBase: Beginning import of payments
+18/07/12 12:32:26 WARN manager.CatalogQueryManager: The table orderdetails contains a multi-column primary key. Sqoop will default to the column orderNumber only for this job.
+18/07/12 12:32:26 WARN manager.CatalogQueryManager: The table orderdetails contains a multi-column primary key. Sqoop will default to the column orderNumber only for this job.
+18/07/12 12:32:26 INFO mapreduce.ImportJobBase: Beginning import of orderdetails
+18/07/12 12:32:26 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
+18/07/12 12:32:26 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
+18/07/12 12:32:27 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+18/07/12 12:32:27 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+18/07/12 12:32:27 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+18/07/12 12:32:27 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+18/07/12 12:32:32 INFO tool.ImportTool: Destination directory /clssicmodels/products is not present, hence not deleting.
+18/07/12 12:32:32 WARN manager.MySQLManager: It looks like you are importing from mysql.
+18/07/12 12:32:32 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+18/07/12 12:32:32 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+18/07/12 12:32:32 INFO mapreduce.ImportJobBase: Beginning import of products
+18/07/12 12:32:32 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
+18/07/12 12:32:32 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+18/07/12 12:32:33 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1252)
+	at java.lang.Thread.join(Thread.java:1326)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:716)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeInternal(DFSOutputStream.java:684)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:680)
+18/07/12 12:32:33 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1252)
+	at java.lang.Thread.join(Thread.java:1326)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:716)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:476)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:652)
+18/07/12 12:32:33 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1252)
+	at java.lang.Thread.join(Thread.java:1326)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:716)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:476)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:652)
+18/07/12 12:32:34 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+18/07/12 12:32:34 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1252)
+	at java.lang.Thread.join(Thread.java:1326)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:716)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:476)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:652)
+18/07/12 12:32:34 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1252)
+	at java.lang.Thread.join(Thread.java:1326)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:716)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:476)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:652)
+18/07/12 12:32:36 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1252)
+	at java.lang.Thread.join(Thread.java:1326)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:716)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:476)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:652)
+18/07/12 12:32:36 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1252)
+	at java.lang.Thread.join(Thread.java:1326)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:716)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:476)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:652)
+Thu Jul 12 12:32:37 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/12 12:32:37 INFO db.DBInputFormat: Using read commited transaction isolation
+18/07/12 12:32:37 INFO mapreduce.JobSubmitter: number of splits:1
+18/07/12 12:32:38 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1531396521096_0098
+Thu Jul 12 12:32:38 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/12 12:32:38 INFO db.DBInputFormat: Using read commited transaction isolation
+18/07/12 12:32:38 INFO mapreduce.JobSubmitter: number of splits:1
+Thu Jul 12 12:32:39 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/12 12:32:39 INFO db.DBInputFormat: Using read commited transaction isolation
+18/07/12 12:32:39 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1531396521096_0094
+18/07/12 12:32:39 INFO mapreduce.JobSubmitter: number of splits:1
+18/07/12 12:32:39 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1531396521096_0096
+18/07/12 12:32:39 INFO impl.YarnClientImpl: Submitted application application_1531396521096_0098
+18/07/12 12:32:39 INFO mapreduce.Job: The url to track the job: http://single-node-cluster:8088/proxy/application_1531396521096_0098/
+18/07/12 12:32:39 INFO mapreduce.Job: Running job: job_1531396521096_0098
+Thu Jul 12 12:32:39 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/12 12:32:39 INFO db.DBInputFormat: Using read commited transaction isolation
+18/07/12 12:32:40 INFO impl.YarnClientImpl: Submitted application application_1531396521096_0094
+18/07/12 12:32:40 INFO mapreduce.Job: The url to track the job: http://single-node-cluster:8088/proxy/application_1531396521096_0094/
+18/07/12 12:32:40 INFO mapreduce.Job: Running job: job_1531396521096_0094
+18/07/12 12:32:40 INFO impl.YarnClientImpl: Submitted application application_1531396521096_0096
+18/07/12 12:32:40 INFO mapreduce.JobSubmitter: number of splits:1
+Thu Jul 12 12:32:40 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/12 12:32:40 INFO mapreduce.Job: The url to track the job: http://single-node-cluster:8088/proxy/application_1531396521096_0096/
+18/07/12 12:32:40 INFO mapreduce.Job: Running job: job_1531396521096_0096
+18/07/12 12:32:40 INFO db.DBInputFormat: Using read commited transaction isolation
+18/07/12 12:32:40 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1252)
+	at java.lang.Thread.join(Thread.java:1326)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:716)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:476)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:652)
+18/07/12 12:32:40 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1531396521096_0095
+18/07/12 12:32:40 INFO mapreduce.JobSubmitter: number of splits:1
+18/07/12 12:32:41 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1531396521096_0099
+18/07/12 12:32:41 INFO impl.YarnClientImpl: Submitted application application_1531396521096_0095
+Thu Jul 12 12:32:41 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/12 12:32:41 INFO db.DBInputFormat: Using read commited transaction isolation
+18/07/12 12:32:41 INFO mapreduce.Job: The url to track the job: http://single-node-cluster:8088/proxy/application_1531396521096_0095/
+18/07/12 12:32:41 INFO mapreduce.Job: Running job: job_1531396521096_0095
+18/07/12 12:32:42 INFO impl.YarnClientImpl: Submitted application application_1531396521096_0099
+18/07/12 12:32:42 INFO mapreduce.Job: The url to track the job: http://single-node-cluster:8088/proxy/application_1531396521096_0099/
+18/07/12 12:32:42 INFO mapreduce.Job: Running job: job_1531396521096_0099
+18/07/12 12:32:42 INFO mapreduce.JobSubmitter: number of splits:1
+18/07/12 12:32:42 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1531396521096_0097
+18/07/12 12:32:42 INFO impl.YarnClientImpl: Submitted application application_1531396521096_0097
+18/07/12 12:32:43 INFO mapreduce.Job: The url to track the job: http://single-node-cluster:8088/proxy/application_1531396521096_0097/
+18/07/12 12:32:43 INFO mapreduce.Job: Running job: job_1531396521096_0097
+Thu Jul 12 12:32:44 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/12 12:32:44 INFO db.DBInputFormat: Using read commited transaction isolation
+18/07/12 12:32:44 INFO mapreduce.JobSubmitter: number of splits:1
+18/07/12 12:32:44 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1531396521096_0102
+18/07/12 12:32:45 INFO impl.YarnClientImpl: Submitted application application_1531396521096_0102
+18/07/12 12:32:45 INFO mapreduce.Job: The url to track the job: http://single-node-cluster:8088/proxy/application_1531396521096_0102/
+18/07/12 12:32:45 INFO mapreduce.Job: Running job: job_1531396521096_0102
+18/07/12 12:34:21 INFO mapreduce.Job: Job job_1531396521096_0094 running in uber mode : false
+18/07/12 12:34:21 INFO mapreduce.Job:  map 0% reduce 0%
+18/07/12 12:34:33 INFO mapreduce.Job:  map 100% reduce 0%
+18/07/12 12:34:34 INFO mapreduce.Job: Job job_1531396521096_0094 completed successfully
+18/07/12 12:34:34 INFO mapreduce.Job: Counters: 30
 	File System Counters
 		FILE: Number of bytes read=0
-		FILE: Number of bytes written=143464
+		FILE: Number of bytes written=143453
 		FILE: Number of read operations=0
 		FILE: Number of large read operations=0
 		FILE: Number of write operations=0
 		HDFS: Number of bytes read=87
-		HDFS: Number of bytes written=522
+		HDFS: Number of bytes written=648
 		HDFS: Number of read operations=4
 		HDFS: Number of large read operations=0
 		HDFS: Number of write operations=2
 	Job Counters 
 		Launched map tasks=1
 		Other local map tasks=1
-		Total time spent by all maps in occupied slots (ms)=8370
+		Total time spent by all maps in occupied slots (ms)=9156
 		Total time spent by all reduces in occupied slots (ms)=0
-		Total time spent by all map tasks (ms)=8370
-		Total vcore-milliseconds taken by all map tasks=8370
-		Total megabyte-milliseconds taken by all map tasks=8570880
+		Total time spent by all map tasks (ms)=9156
+		Total vcore-milliseconds taken by all map tasks=9156
+		Total megabyte-milliseconds taken by all map tasks=9375744
 	Map-Reduce Framework
 		Map input records=7
 		Map output records=7
@@ -69,27 +468,493 @@ Thu Jul 05 03:51:02 UTC 2018 WARN: Establishing SSL connection without server's 
 		Spilled Records=0
 		Failed Shuffles=0
 		Merged Map outputs=0
-		GC time elapsed (ms)=293
-		CPU time spent (ms)=2190
-		Physical memory (bytes) snapshot=208965632
-		Virtual memory (bytes) snapshot=1972133888
-		Total committed heap usage (bytes)=148373504
+		GC time elapsed (ms)=250
+		CPU time spent (ms)=1620
+		Physical memory (bytes) snapshot=195964928
+		Virtual memory (bytes) snapshot=1970819072
+		Total committed heap usage (bytes)=146800640
 	File Input Format Counters 
 		Bytes Read=0
 	File Output Format Counters 
-		Bytes Written=522
-18/07/05 03:51:33 INFO mapreduce.ImportJobBase: Transferred 522 bytes in 42.4434 seconds (12.2987 bytes/sec)
-18/07/05 03:51:33 INFO mapreduce.ImportJobBase: Retrieved 7 records.
-18/07/05 03:51:33 INFO mapreduce.ImportJobBase: Publishing Hive/Hcat import job data to Listeners for table offices
-Thu Jul 05 03:51:33 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
-18/07/05 03:51:33 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `offices` AS t LIMIT 1
-18/07/05 03:51:33 INFO hive.HiveImport: Loading uploaded data into Hive
-18/07/05 03:51:33 INFO conf.HiveConf: Found configuration file file:/home/dorababugjntup/YARN/hive/conf/hive-site.xml
-18/07/05 03:51:44 INFO hive.HiveImport: 
-18/07/05 03:51:44 INFO hive.HiveImport: Logging initialized using configuration in jar:file:/home/dorababugjntup/YARN/hive/lib/hive-common-2.3.3.jar!/hive-log4j2.properties Async: true
-18/07/05 03:51:56 INFO hive.HiveImport: OK
-18/07/05 03:51:56 INFO hive.HiveImport: Time taken: 9.65 seconds
-18/07/05 03:51:57 INFO hive.HiveImport: Loading data to table hdpdlake.offices
-18/07/05 03:51:59 INFO hive.HiveImport: OK
-18/07/05 03:51:59 INFO hive.HiveImport: Time taken: 3.19 seconds
-18/07/05 03:52:00 INFO hive.HiveImport: Hive import complete.
+		Bytes Written=648
+18/07/12 12:34:34 INFO mapreduce.ImportJobBase: Transferred 648 bytes in 129.1313 seconds (5.0181 bytes/sec)
+18/07/12 12:34:34 INFO mapreduce.ImportJobBase: Retrieved 7 records.
+18/07/12 12:35:08 INFO mapreduce.Job: Job job_1531396521096_0095 running in uber mode : false
+18/07/12 12:35:08 INFO mapreduce.Job:  map 0% reduce 0%
+18/07/12 12:35:19 INFO mapreduce.Job:  map 100% reduce 0%
+18/07/12 12:35:20 INFO mapreduce.Job: Job job_1531396521096_0095 completed successfully
+18/07/12 12:35:20 INFO mapreduce.Job: Counters: 30
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=143441
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=87
+		HDFS: Number of bytes written=29058
+		HDFS: Number of read operations=4
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=2
+	Job Counters 
+		Launched map tasks=1
+		Other local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=8293
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=8293
+		Total vcore-milliseconds taken by all map tasks=8293
+		Total megabyte-milliseconds taken by all map tasks=8492032
+	Map-Reduce Framework
+		Map input records=326
+		Map output records=326
+		Input split bytes=87
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=202
+		CPU time spent (ms)=1920
+		Physical memory (bytes) snapshot=207458304
+		Virtual memory (bytes) snapshot=1971380224
+		Total committed heap usage (bytes)=143654912
+	File Input Format Counters 
+		Bytes Read=0
+	File Output Format Counters 
+		Bytes Written=29058
+18/07/12 12:35:20 INFO mapreduce.ImportJobBase: Transferred 28.377 KB in 175.2664 seconds (165.7933 bytes/sec)
+18/07/12 12:35:20 INFO mapreduce.ImportJobBase: Retrieved 326 records.
+18/07/12 12:35:49 INFO mapreduce.Job: Job job_1531396521096_0096 running in uber mode : false
+18/07/12 12:35:49 INFO mapreduce.Job:  map 0% reduce 0%
+18/07/12 12:36:00 INFO mapreduce.Job:  map 100% reduce 0%
+18/07/12 12:36:02 INFO mapreduce.Job: Job job_1531396521096_0096 completed successfully
+18/07/12 12:36:03 INFO mapreduce.Job: Counters: 30
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=143464
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=87
+		HDFS: Number of bytes written=2029
+		HDFS: Number of read operations=4
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=2
+	Job Counters 
+		Launched map tasks=1
+		Other local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=8399
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=8399
+		Total vcore-milliseconds taken by all map tasks=8399
+		Total megabyte-milliseconds taken by all map tasks=8600576
+	Map-Reduce Framework
+		Map input records=23
+		Map output records=23
+		Input split bytes=87
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=255
+		CPU time spent (ms)=1560
+		Physical memory (bytes) snapshot=195125248
+		Virtual memory (bytes) snapshot=1971724288
+		Total committed heap usage (bytes)=144703488
+	File Input Format Counters 
+		Bytes Read=0
+	File Output Format Counters 
+		Bytes Written=2029
+18/07/12 12:36:03 INFO mapreduce.ImportJobBase: Transferred 1.9814 KB in 217.2275 seconds (9.3404 bytes/sec)
+18/07/12 12:36:03 INFO mapreduce.ImportJobBase: Retrieved 23 records.
+18/07/12 12:36:31 INFO mapreduce.Job: Job job_1531396521096_0097 running in uber mode : false
+18/07/12 12:36:31 INFO mapreduce.Job:  map 0% reduce 0%
+18/07/12 12:36:43 INFO mapreduce.Job:  map 100% reduce 0%
+18/07/12 12:36:44 INFO mapreduce.Job: Job job_1531396521096_0097 completed successfully
+18/07/12 12:36:44 INFO mapreduce.Job: Counters: 30
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=143431
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=87
+		HDFS: Number of bytes written=3494
+		HDFS: Number of read operations=4
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=2
+	Job Counters 
+		Launched map tasks=1
+		Other local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=8899
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=8899
+		Total vcore-milliseconds taken by all map tasks=8899
+		Total megabyte-milliseconds taken by all map tasks=9112576
+	Map-Reduce Framework
+		Map input records=7
+		Map output records=7
+		Input split bytes=87
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=236
+		CPU time spent (ms)=2130
+		Physical memory (bytes) snapshot=222781440
+		Virtual memory (bytes) snapshot=1976442880
+		Total committed heap usage (bytes)=145752064
+	File Input Format Counters 
+		Bytes Read=0
+	File Output Format Counters 
+		Bytes Written=3494
+18/07/12 12:36:44 INFO mapreduce.ImportJobBase: Transferred 3.4121 KB in 258.9166 seconds (13.4947 bytes/sec)
+18/07/12 12:36:44 INFO mapreduce.ImportJobBase: Retrieved 7 records.
+18/07/12 12:37:13 INFO mapreduce.Job: Job job_1531396521096_0098 running in uber mode : false
+18/07/12 12:37:13 INFO mapreduce.Job:  map 0% reduce 0%
+18/07/12 12:37:26 INFO mapreduce.Job:  map 100% reduce 0%
+18/07/12 12:37:26 INFO mapreduce.Job: Job job_1531396521096_0098 completed successfully
+18/07/12 12:37:26 INFO mapreduce.Job: Counters: 30
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=143414
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=87
+		HDFS: Number of bytes written=11132
+		HDFS: Number of read operations=4
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=2
+	Job Counters 
+		Launched map tasks=1
+		Other local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=9188
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=9188
+		Total vcore-milliseconds taken by all map tasks=9188
+		Total megabyte-milliseconds taken by all map tasks=9408512
+	Map-Reduce Framework
+		Map input records=273
+		Map output records=273
+		Input split bytes=87
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=196
+		CPU time spent (ms)=2320
+		Physical memory (bytes) snapshot=210055168
+		Virtual memory (bytes) snapshot=1975279616
+		Total committed heap usage (bytes)=140509184
+	File Input Format Counters 
+		Bytes Read=0
+	File Output Format Counters 
+		Bytes Written=11132
+18/07/12 12:37:26 INFO mapreduce.ImportJobBase: Transferred 10.8711 KB in 299.3265 seconds (37.1902 bytes/sec)
+18/07/12 12:37:26 INFO mapreduce.ImportJobBase: Retrieved 273 records.
+18/07/12 12:37:55 INFO mapreduce.Job: Job job_1531396521096_0099 running in uber mode : false
+18/07/12 12:37:55 INFO mapreduce.Job:  map 0% reduce 0%
+18/07/12 12:38:06 INFO mapreduce.Job:  map 100% reduce 0%
+18/07/12 12:38:07 INFO mapreduce.Job: Job job_1531396521096_0099 completed successfully
+18/07/12 12:38:07 INFO mapreduce.Job: Counters: 30
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=143449
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=87
+		HDFS: Number of bytes written=109989
+		HDFS: Number of read operations=4
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=2
+	Job Counters 
+		Launched map tasks=1
+		Other local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=8582
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=8582
+		Total vcore-milliseconds taken by all map tasks=8582
+		Total megabyte-milliseconds taken by all map tasks=8787968
+	Map-Reduce Framework
+		Map input records=2996
+		Map output records=2996
+		Input split bytes=87
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=211
+		CPU time spent (ms)=2070
+		Physical memory (bytes) snapshot=212086784
+		Virtual memory (bytes) snapshot=1972199424
+		Total committed heap usage (bytes)=143654912
+	File Input Format Counters 
+		Bytes Read=0
+	File Output Format Counters 
+		Bytes Written=109989
+18/07/12 12:38:07 INFO mapreduce.ImportJobBase: Transferred 107.4111 KB in 340.645 seconds (322.8845 bytes/sec)
+18/07/12 12:38:07 INFO mapreduce.ImportJobBase: Retrieved 2996 records.
+18/07/12 12:38:51 INFO mapreduce.Job: Job job_1531396521096_0102 running in uber mode : false
+18/07/12 12:38:51 INFO mapreduce.Job:  map 0% reduce 0%
+18/07/12 12:38:51 INFO mapreduce.Job: Job job_1531396521096_0102 failed with state KILLED due to: Kill application application_1531396521096_0102 received from dr.who (auth:SIMPLE)
+18/07/12 12:38:51 INFO mapreduce.Job: Counters: 0
+18/07/12 12:38:51 WARN mapreduce.Counters: Group FileSystemCounters is deprecated. Use org.apache.hadoop.mapreduce.FileSystemCounter instead
+18/07/12 12:38:51 INFO mapreduce.ImportJobBase: Transferred 0 bytes in 378.7623 seconds (0 bytes/sec)
+18/07/12 12:38:51 WARN mapreduce.Counters: Group org.apache.hadoop.mapred.Task$Counter is deprecated. Use org.apache.hadoop.mapreduce.TaskCounter instead
+18/07/12 12:38:51 INFO mapreduce.ImportJobBase: Retrieved 0 records.
+18/07/12 12:38:51 ERROR tool.ImportTool: Import failed: Import job failed!
+88888888888888888888888888888888
+total 76
+-rw------- 1 dorababugjntup dorababugjntup 53636 Jul 13 00:39 nohup.out
+-rw-rw-r-- 1 dorababugjntup dorababugjntup  1118 Jul 13 00:35 readme_download_mysql_table_data_to_csv.txt
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   548 Jul  5 03:21 sqoop_create_hive_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   592 Jul 13 00:35 sqoop_dump_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   590 Jul 11 01:50 sqoop_import_hive_table.sh
+username - root
+database name - classicmodels
+*** Table name is :: products 
+Warning: /home/dorababugjntup/YARN/sqoop/../hbase does not exist! HBase imports will fail.
+Please set $HBASE_HOME to the root of your HBase installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../hcatalog does not exist! HCatalog jobs will fail.
+Please set $HCAT_HOME to the root of your HCatalog installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../accumulo does not exist! Accumulo imports will fail.
+Please set $ACCUMULO_HOME to the root of your Accumulo installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../zookeeper does not exist! Accumulo imports will fail.
+Please set $ZOOKEEPER_HOME to the root of your Zookeeper installation.
+18/07/13 00:39:55 INFO sqoop.Sqoop: Running Sqoop version: 1.4.7
+18/07/13 00:39:55 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+18/07/13 00:39:55 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+18/07/13 00:39:55 INFO tool.CodeGenTool: Beginning code generation
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+Fri Jul 13 00:39:56 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/13 00:39:56 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `products` AS t LIMIT 1
+18/07/13 00:39:56 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `products` AS t LIMIT 1
+18/07/13 00:39:56 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /home/dorababugjntup/YARN/hadoop2
+Note: /tmp/sqoop-dorababugjntup/compile/0d4b751d70d0cc4dd85c78d556f78d4b/products.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+18/07/13 00:40:00 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-dorababugjntup/compile/0d4b751d70d0cc4dd85c78d556f78d4b/products.jar
+18/07/13 00:40:03 INFO tool.ImportTool: Destination directory /classicmodels/products is not present, hence not deleting.
+18/07/13 00:40:03 WARN manager.MySQLManager: It looks like you are importing from mysql.
+18/07/13 00:40:03 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+18/07/13 00:40:03 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+18/07/13 00:40:03 INFO mapreduce.ImportJobBase: Beginning import of products
+18/07/13 00:40:03 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
+18/07/13 00:40:03 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+18/07/13 00:40:03 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+18/07/13 00:40:06 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1252)
+	at java.lang.Thread.join(Thread.java:1326)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:716)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:476)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:652)
+Fri Jul 13 00:40:08 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/13 00:40:08 INFO db.DBInputFormat: Using read commited transaction isolation
+18/07/13 00:40:08 INFO mapreduce.JobSubmitter: number of splits:1
+18/07/13 00:40:09 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1531396521096_0996
+18/07/13 00:40:09 INFO impl.YarnClientImpl: Submitted application application_1531396521096_0996
+18/07/13 00:40:09 INFO mapreduce.Job: The url to track the job: http://single-node-cluster:8088/proxy/application_1531396521096_0996/
+18/07/13 00:40:09 INFO mapreduce.Job: Running job: job_1531396521096_0996
+18/07/13 00:49:31 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:49:32 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 1 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:49:33 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 2 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:49:34 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 3 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:49:35 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 4 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:49:36 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 5 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:49:37 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 6 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:49:38 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 7 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:49:39 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 8 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:49:40 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 9 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:11 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:12 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 1 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:13 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 2 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:14 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 3 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:15 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 4 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:16 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 5 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:17 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 6 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:18 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 7 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:19 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 8 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:20 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 9 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:51 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:52 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 1 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:53 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 2 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:54 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 3 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:55 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 4 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:56 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 5 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:57 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 6 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:58 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 7 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:50:59 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 8 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:00 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:8032. Already tried 9 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:30 INFO mapred.ClientServiceDelegate: Could not get Job info from RM for job job_1531396521096_0996. Redirecting to job history server.
+18/07/13 00:51:31 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:32 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 1 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:33 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 2 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:34 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 3 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:35 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 4 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:36 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 5 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:37 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 6 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:38 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 7 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:39 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 8 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:40 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 9 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:40 INFO mapred.ClientServiceDelegate: Could not get Job info from RM for job job_1531396521096_0996. Redirecting to job history server.
+18/07/13 00:51:41 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:42 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 1 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:43 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 2 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:44 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 3 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:45 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 4 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:46 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 5 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:47 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 6 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:48 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 7 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:49 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 8 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:50 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 9 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:50 INFO mapred.ClientServiceDelegate: Could not get Job info from RM for job job_1531396521096_0996. Redirecting to job history server.
+18/07/13 00:51:51 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:52 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 1 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:53 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 2 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+88888888888888888888888888888888
+total 124
+-rw------- 1 dorababugjntup dorababugjntup 70302 Jul 13 00:51 nohup.out
+-rw-rw-r-- 1 dorababugjntup dorababugjntup 28716 Jul 13 00:39 products.java
+-rw-rw-r-- 1 dorababugjntup dorababugjntup  1118 Jul 13 00:35 readme_download_mysql_table_data_to_csv.txt
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   548 Jul  5 03:21 sqoop_create_hive_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   592 Jul 13 00:35 sqoop_dump_table.sh
+-rw-rw-r-- 1 dorababugjntup dorababugjntup   590 Jul 11 01:50 sqoop_import_hive_table.sh
+username - root
+database name - classicmodels
+*** Table name is :: products 
+Warning: /home/dorababugjntup/YARN/sqoop/../hbase does not exist! HBase imports will fail.
+Please set $HBASE_HOME to the root of your HBase installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../hcatalog does not exist! HCatalog jobs will fail.
+Please set $HCAT_HOME to the root of your HCatalog installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../accumulo does not exist! Accumulo imports will fail.
+Please set $ACCUMULO_HOME to the root of your Accumulo installation.
+Warning: /home/dorababugjntup/YARN/sqoop/../zookeeper does not exist! Accumulo imports will fail.
+Please set $ZOOKEEPER_HOME to the root of your Zookeeper installation.
+18/07/13 00:51:54 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 3 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:55 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 4 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:55 INFO sqoop.Sqoop: Running Sqoop version: 1.4.7
+18/07/13 00:51:56 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+18/07/13 00:51:56 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+18/07/13 00:51:56 INFO tool.CodeGenTool: Beginning code generation
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+18/07/13 00:51:56 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 5 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+Fri Jul 13 00:51:57 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/13 00:51:57 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `products` AS t LIMIT 1
+18/07/13 00:51:57 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `products` AS t LIMIT 1
+18/07/13 00:51:57 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /home/dorababugjntup/YARN/hadoop2
+18/07/13 00:51:57 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 6 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:58 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 7 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:51:59 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 8 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:52:00 INFO ipc.Client: Retrying connect to server: 0.0.0.0/0.0.0.0:10020. Already tried 9 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+18/07/13 00:52:00 ERROR tool.ImportTool: Import failed: java.io.IOException: java.net.ConnectException: Call From single-node-cluster.c.future-campaign-202203.internal/10.142.0.2 to 0.0.0.0:10020 failed on connection exception: java.net.ConnectException: Connection refused; For more details see:  http://wiki.apache.org/hadoop/ConnectionRefused
+	at org.apache.hadoop.mapred.ClientServiceDelegate.invoke(ClientServiceDelegate.java:344)
+	at org.apache.hadoop.mapred.ClientServiceDelegate.getJobStatus(ClientServiceDelegate.java:429)
+	at org.apache.hadoop.mapred.YARNRunner.getJobStatus(YARNRunner.java:601)
+	at org.apache.hadoop.mapreduce.Job$1.run(Job.java:323)
+	at org.apache.hadoop.mapreduce.Job$1.run(Job.java:320)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1758)
+	at org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:320)
+	at org.apache.hadoop.mapreduce.Job.isComplete(Job.java:604)
+	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1349)
+	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1311)
+	at org.apache.sqoop.mapreduce.ImportJobBase.doSubmitJob(ImportJobBase.java:200)
+	at org.apache.sqoop.mapreduce.ImportJobBase.runJob(ImportJobBase.java:173)
+	at org.apache.sqoop.mapreduce.ImportJobBase.runImport(ImportJobBase.java:270)
+	at org.apache.sqoop.manager.SqlManager.importTable(SqlManager.java:692)
+	at org.apache.sqoop.manager.MySQLManager.importTable(MySQLManager.java:127)
+	at org.apache.sqoop.tool.ImportTool.importTable(ImportTool.java:520)
+	at org.apache.sqoop.tool.ImportTool.run(ImportTool.java:628)
+	at org.apache.sqoop.Sqoop.run(Sqoop.java:147)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.sqoop.Sqoop.runSqoop(Sqoop.java:183)
+	at org.apache.sqoop.Sqoop.runTool(Sqoop.java:234)
+	at org.apache.sqoop.Sqoop.runTool(Sqoop.java:243)
+	at org.apache.sqoop.Sqoop.main(Sqoop.java:252)
+Caused by: java.net.ConnectException: Call From single-node-cluster.c.future-campaign-202203.internal/10.142.0.2 to 0.0.0.0:10020 failed on connection exception: java.net.ConnectException: Connection refused; For more details see:  http://wiki.apache.org/hadoop/ConnectionRefused
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.apache.hadoop.net.NetUtils.wrapWithMessage(NetUtils.java:792)
+	at org.apache.hadoop.net.NetUtils.wrapException(NetUtils.java:732)
+	at org.apache.hadoop.ipc.Client.call(Client.java:1480)
+	at org.apache.hadoop.ipc.Client.call(Client.java:1413)
+	at org.apache.hadoop.ipc.ProtobufRpcEngine$Invoker.invoke(ProtobufRpcEngine.java:229)
+	at com.sun.proxy.$Proxy15.getJobReport(Unknown Source)
+	at org.apache.hadoop.mapreduce.v2.api.impl.pb.client.MRClientProtocolPBClientImpl.getJobReport(MRClientProtocolPBClientImpl.java:133)
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.hadoop.mapred.ClientServiceDelegate.invoke(ClientServiceDelegate.java:325)
+	... 24 more
+Caused by: java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.hadoop.net.SocketIOWithTimeout.connect(SocketIOWithTimeout.java:206)
+	at org.apache.hadoop.net.NetUtils.connect(NetUtils.java:531)
+	at org.apache.hadoop.net.NetUtils.connect(NetUtils.java:495)
+	at org.apache.hadoop.ipc.Client$Connection.setupConnection(Client.java:615)
+	at org.apache.hadoop.ipc.Client$Connection.setupIOstreams(Client.java:713)
+	at org.apache.hadoop.ipc.Client$Connection.access$2900(Client.java:376)
+	at org.apache.hadoop.ipc.Client.getConnection(Client.java:1529)
+	at org.apache.hadoop.ipc.Client.call(Client.java:1452)
+	... 32 more
+
+Note: /tmp/sqoop-dorababugjntup/compile/163fbc532983b03c729ffe9b24f52a82/products.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+18/07/13 00:52:01 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-dorababugjntup/compile/163fbc532983b03c729ffe9b24f52a82/products.jar
+18/07/13 00:52:04 INFO tool.ImportTool: Destination directory /classicmodels/products is not present, hence not deleting.
+18/07/13 00:52:04 WARN manager.MySQLManager: It looks like you are importing from mysql.
+18/07/13 00:52:04 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+18/07/13 00:52:04 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+18/07/13 00:52:04 INFO mapreduce.ImportJobBase: Beginning import of products
+18/07/13 00:52:04 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
+18/07/13 00:52:04 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+18/07/13 00:52:04 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+Fri Jul 13 00:52:13 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+18/07/13 00:52:13 INFO db.DBInputFormat: Using read commited transaction isolation
+18/07/13 00:52:14 INFO mapreduce.JobSubmitter: number of splits:1
+18/07/13 00:52:14 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1531443086591_0001
+18/07/13 00:52:15 INFO impl.YarnClientImpl: Submitted application application_1531443086591_0001
+18/07/13 00:52:15 INFO mapreduce.Job: The url to track the job: http://single-node-cluster:8088/proxy/application_1531443086591_0001/
+18/07/13 00:52:15 INFO mapreduce.Job: Running job: job_1531443086591_0001
+18/07/13 00:52:43 INFO mapreduce.Job: Job job_1531443086591_0001 running in uber mode : false
+18/07/13 00:52:43 INFO mapreduce.Job:  map 0% reduce 0%
+18/07/13 00:52:55 INFO mapreduce.Job:  map 100% reduce 0%
+18/07/13 00:52:55 INFO mapreduce.Job: Job job_1531443086591_0001 completed successfully
+18/07/13 00:52:56 INFO mapreduce.Job: Counters: 30
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=143492
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=87
+		HDFS: Number of bytes written=31002
+		HDFS: Number of read operations=4
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=2
+	Job Counters 
+		Launched map tasks=1
+		Other local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=9296
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=9296
+		Total vcore-milliseconds taken by all map tasks=9296
+		Total megabyte-milliseconds taken by all map tasks=9519104
+	Map-Reduce Framework
+		Map input records=110
+		Map output records=110
+		Input split bytes=87
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=195
+		CPU time spent (ms)=1790
+		Physical memory (bytes) snapshot=196603904
+		Virtual memory (bytes) snapshot=1976758272
+		Total committed heap usage (bytes)=147849216
+	File Input Format Counters 
+		Bytes Read=0
+	File Output Format Counters 
+		Bytes Written=31002
+18/07/13 00:52:56 INFO mapreduce.ImportJobBase: Transferred 30.2754 KB in 51.9674 seconds (596.566 bytes/sec)
+18/07/13 00:52:56 INFO mapreduce.ImportJobBase: Retrieved 110 records.
